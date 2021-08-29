@@ -42,6 +42,9 @@ h1{
 }
 .experiances{
     margin-top: 150px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
 }
 .experiances h1{
     font-size: 30px;
